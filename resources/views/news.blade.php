@@ -21,7 +21,9 @@
         </style>
     </head>
     <body class="antialiased">
-    <a href="/news">首頁</a>
+    <div class="col-lg-12">
+    <a href="/news" class="btn btn-success">首頁</a>
+    </div>
     <a href="/about">關於本站</a>
 
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center sm:pt-0">
